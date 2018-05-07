@@ -1,6 +1,7 @@
 body {
-    background-color: black;
+    /*background-color: black;*/
     color: white;
     text-align: center;
     font-family: Verdana;
+    background: linear-gradient(to bottom, black, black, black, black, red, orange, teal);
 }
