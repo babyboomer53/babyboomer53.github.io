@@ -1,12 +1,10 @@
 body {
-    /*background-color: black;*/
     color: white;
     text-align: center;
     font-family: Verdana;
-    background: linear-gradient(to bottom, black, black, black, rgb(142, 113, 12), White);
+    background: linear-gradient(to bottom, black, black, Black, Blue);
 }
 
 .copyright {
-    text-align: right;
-    color: rgb(142, 113, 12);
+    text-align: right
 }
