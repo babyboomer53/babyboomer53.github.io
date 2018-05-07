@@ -5,3 +5,8 @@ body {
     font-family: Verdana;
     background: linear-gradient(to bottom, black, black, black, rgb(142, 113, 12), White);
 }
+
+.copyright {
+    text-align: right;
+    color: rgb(142, 113, 12);
+}
